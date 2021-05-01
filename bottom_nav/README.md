@@ -1,8 +1,7 @@
 # bottom_nav
 
 A new Flutter project.
-
-<img src = "https://github.com/dsrathore1/Flutter/blob/master/bottom_nav/ss/Screenshot_1619861850.png" style="height: 10px; width:10px;"/>
+<img src="https://github.com/dsrathore1/Flutter/raw/master/bottom_nav/ss/Screenshot_1619861850.png" style="max-width:30%;">
 
 ## Getting Started
 
