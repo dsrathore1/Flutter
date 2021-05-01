@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-<img src="https://github.com/dsrathore1/Flutter/raw/master/bottom_nav/ss/Screenshot_1619861850.png" width="300" height="600">
+<img src="https://github.com/dsrathore1/Flutter/blob/master/calculator/ss/Screenshot_1619861954.png" width="300" height="600">
 
 ## Getting Started
 
