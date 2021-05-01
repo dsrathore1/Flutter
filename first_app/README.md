@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+<img src="https://github.com/dsrathore1/Flutter/blob/master/first_app/ss/Screenshot_1619862223.png" width="300" height="600">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
