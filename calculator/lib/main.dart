@@ -66,12 +66,12 @@ class _MyHomeState extends State<MyHome> {
 
   dynamic customButton(String val) {
     return Expanded(
-      child: OutlineButton(
+      child: MaterialButton(
         onPressed: () => btnclicked(val),
         padding: EdgeInsets.all(25),
         highlightColor: Colors.black45,
         splashColor: Colors.black54,
-        borderSide: BorderSide(color: Colors.black54),
+        // borderSide: BorderSide(color: Colors.black54),
         child: Text(
           "$val",
           style: TextStyle(
